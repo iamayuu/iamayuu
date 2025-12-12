@@ -111,13 +111,6 @@ Interactive visualization of A* shortest path algorithm.
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamayuu&theme=algolia&no-frame=true&row=1&margin-w=12" />
-</p>
-
----
-
 ## ✍️ Random Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
