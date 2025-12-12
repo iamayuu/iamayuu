@@ -99,7 +99,7 @@ Interactive visualization of A* shortest path algorithm.
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-8-brightgreen?style=for-the-badge" alt="Public Repositories" title="Number of public repositories"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-9-green?style=for-the-badge" alt="Public Repositories" title="Number of public repositories"/>
   <img src="https://img.shields.io/github/stars/iamayuu/dev-portfolio-website?label=Stars&style=for-the-badge" alt="Repo Stars" title="Stars on repository" />
   <img src="https://img.shields.io/github/repo-size/iamayuu/dev-portfolio-website?label=Repo%20Size&style=for-the-badge" alt="Repo Size" title="Repository size" />
   <img src="https://img.shields.io/github/last-commit/iamayuu/dev-portfolio-website?style=for-the-badge" alt="Last Commit" title="Last Commit to Portfolio Repo"/>
