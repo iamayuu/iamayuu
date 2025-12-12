@@ -120,6 +120,6 @@ Interactive visualization of A* shortest path algorithm.
 ---
 
 ## ⚡ Fun Fact  
-Automation isn't about saving time. It’s about refusing to waste it.
+**Automation isn't about saving time. It’s about refusing to waste it.**
 
 ---
