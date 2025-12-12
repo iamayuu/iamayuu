@@ -16,16 +16,13 @@ I build reliable systems, automate complex workflows, and constantly push myself
   <a href="https://www.linkedin.com/in/ayush-raghuwanshi1/" target="_blank" title="My LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/iamayuu" target="_blank" title="My Github">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-</a>
   <a href="https://leetcode.com/u/ayushraghuwanshi1/" target="_blank" title="My Leetcode Profile">
   <img src="https://skillicons.dev/icons?i=htmx" height="40" alt="Leetcode"/>
   </a>
   <a href="mailto:ayushraghuwanshi54321@gmail.com" target="_blank" title="Connect with me">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
 </a>
-  <a href="mailto:ayushraghuwanshi54321@gmail.com" target="_blank" title="My Stackoverflow">
+  <a href="https://stackoverflow.com/users/31998585/ayush-raghuwanshi" target="_blank" title="My Stackoverflow">
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stackoverflow"/>
 </a>
 </p>
