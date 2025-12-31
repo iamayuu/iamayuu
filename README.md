@@ -95,13 +95,16 @@ Interactive visualization of A* shortest path algorithm.
 🔗 GitHub: https://github.com/iamayuu/Shortest-Path-Finding-Algorithm  
 
 ---
-# 📊 GitHub Stats:
+## 📊 GitHub Stats 
+
 ![](https://github-readme-stats.vercel.app/api?username=iamayuu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iamayuu&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamayuu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamayuu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false"/>
+</div>
 
-## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Public%20Repos-9-green?style=for-the-badge" alt="Public Repositories" title="Number of public repositories"/>
@@ -116,10 +119,14 @@ Interactive visualization of A* shortest path algorithm.
 
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iamayuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ## ✍️ Random Dev Quote  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
@@ -128,3 +135,5 @@ Interactive visualization of A* shortest path algorithm.
 **Automation isn't about saving time. It’s about refusing to waste it.**
 
 ---
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iamayuu&limit=5&theme=dark&combine_all_yearly_contributions=true)
