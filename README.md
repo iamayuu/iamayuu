@@ -10,30 +10,14 @@ I build reliable systems, automate complex workflows, and constantly push myself
 ## 🌐 Socials  
 
 <p align="left">
-<a href="https://ayushraghuwanshi.netlify.app" target="_blank" title="Visit my Portfolio Website">
-  <img src="https://skillicons.dev/icons?i=rocket" height="40" alt="Portfolio website"/>
-</a>
-  <a href="https://www.linkedin.com/in/ayush-raghuwanshi1/" target="_blank" title="My LinkedIn">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-</a>
-  <a href="https://leetcode.com/u/ayushraghuwanshi1/" target="_blank" title="My Leetcode Profile">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="Leetcode"/>
-  </a>
-  <a href="mailto:ayushraghuwanshi54321@gmail.com" target="_blank" title="Connect with me">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
-</a>
-  <a href="https://www.kaggle.com/ayushr1234" target="_blank" title="My Kaggle Profile">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" alt="Kaggle"/>
-</a>
-  <a href="https://www.hackerrank.com/profile/ayushraghu1" target="_blank" title="My HackerRank Profile">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" alt="HackerRank"/>
-</a>
-  <a href="https://stackoverflow.com/users/31998585/ayush-raghuwanshi" target="_blank" title="My Stackoverflow">
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stackoverflow"/>
-</a>
-  <a href="https://www.geeksforgeeks.org/profile/ayushraghuwanshi1?tab=activity" target="_blank" title="My GFG Profile">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" alt="GeeksForGeeks"/>
-</a>
+<a href="https://ayushraghuwanshi.netlify.app" target="_blank" title="Visit my Portfolio Website"><img src="https://skillicons.dev/icons?i=rocket" height="40" width="40" alt="Portfolio website"/></a>
+<a href="https://www.linkedin.com/in/ayush-raghuwanshi1/" target="_blank" title="My LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/ayushraghuwanshi1/" target="_blank" title="My Leetcode Profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="Leetcode"/></a>
+<a href="mailto:ayushraghuwanshi54321@gmail.com" target="_blank" title="Connect with me"><img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail"/></a>
+<a href="https://www.kaggle.com/ayushr1234" target="_blank" title="My Kaggle Profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" width="40" alt="Kaggle"/></a>
+<a href="https://www.hackerrank.com/profile/ayushraghu1" target="_blank" title="My HackerRank Profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="50" width="50" alt="HackerRank"/></a>
+<a href="https://stackoverflow.com/users/31998585/ayush-raghuwanshi" target="_blank" title="My Stackoverflow"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" width="40" alt="Stackoverflow"/></a>
+<a href="https://www.geeksforgeeks.org/profile/ayushraghuwanshi1?tab=activity" target="_blank" title="My GFG Profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" width="40" alt="GeeksForGeeks"/></a>
 </p>
 
 ---
@@ -42,12 +26,12 @@ I build reliable systems, automate complex workflows, and constantly push myself
 
 ### **Programming & Automation**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="40"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40"/>
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" height="40"/>
   <img src="https://skillicons.dev/icons?i=selenium" height="40"/>
- <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="40"/>
    <img src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" height="40"/>
 </p>
 
