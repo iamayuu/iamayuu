@@ -97,15 +97,15 @@ Interactive visualization of A* shortest path algorithm.
 ---
 ## 📊 GitHub Stats 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=iamayuu&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=iamayuu&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamayuu&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
+  <span style="display: inline-block; vertical-align: centre; margin-right: 16px;">
+    <img src="https://nirzak-streak-stats.vercel.app?user=iamayuu&theme=codeSTACKr&border_radius=40&mode=weekly" height="270">
+  </span>
+  <span style="display: inline-block; vertical-align: centre; margin-left: 16px;">
+    <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=iamayuu&theme=codeSTACKr&show_icons=true&count_private=true&hide_border=false&border_color=ffffff&border_radius=40&rank_icon=github&include_all_commits=true&custom_title=MyGithubStats" height="270">
+  </span>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=iamayuu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iamayuu&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamayuu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <p align="center">
@@ -118,7 +118,6 @@ Interactive visualization of A* shortest path algorithm.
 <p align="center">
   <img src="https://ghchart.rshah.org/iamayuu" alt="Contribution chart for iamayuu" title="GitHub contribution heatmap" />
 </p>
-
 
 ---
 ## 🏆 GitHub Trophies
@@ -138,4 +137,11 @@ Interactive visualization of A* shortest path algorithm.
 
 ---
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamayuu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<table align="left">
+  <tr>
+    <td align="center" style="padding-right: 20px;">
+     <img src="https://github-contributor-stats.vercel.app/api?username=iamayuu&limit=5&theme=dark&combine_all_yearly_contributions=true" height="470">
+    </td>
+    <td align="center" style="padding-left: 20px;">
+      <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=iamayuu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" height="470">
+</td></tr></table>
