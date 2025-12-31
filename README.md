@@ -109,7 +109,7 @@ Interactive visualization of A* shortest path algorithm.
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/iamayuu" alt="Contribution chart for iamayuu" title="GitHub contribution heatmap" />
+  <img src="https://github.com/iamayuu/iamayuu/blob/output/github-snake-dark.svg" title="GitHub contribution heatmap" />
 </p>
 ---
 
