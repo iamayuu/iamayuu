@@ -17,13 +17,22 @@ I build reliable systems, automate complex workflows, and constantly push myself
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
 </a>
   <a href="https://leetcode.com/u/ayushraghuwanshi1/" target="_blank" title="My Leetcode Profile">
-  <img src="https://skillicons.dev/icons?i=htmx" height="40" alt="Leetcode"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="Leetcode"/>
   </a>
   <a href="mailto:ayushraghuwanshi54321@gmail.com" target="_blank" title="Connect with me">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
 </a>
+  <a href="https://www.kaggle.com/ayushr1234" target="_blank" title="My Kaggle Profile">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" alt="Kaggle"/>
+</a>
+  <a href="https://www.hackerrank.com/profile/ayushraghu1" target="_blank" title="My HackerRank Profile">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" alt="HackerRank"/>
+</a>
   <a href="https://stackoverflow.com/users/31998585/ayush-raghuwanshi" target="_blank" title="My Stackoverflow">
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stackoverflow"/>
+</a>
+  <a href="https://www.geeksforgeeks.org/profile/ayushraghuwanshi1?tab=activity" target="_blank" title="My GFG Profile">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" alt="GeeksForGeeks"/>
 </a>
 </p>
 
@@ -100,13 +109,13 @@ Interactive visualization of A* shortest path algorithm.
   <span style="display: inline-block; vertical-align: centre; margin-right: 16px;">
     <img src="https://nirzak-streak-stats.vercel.app?user=iamayuu&theme=codeSTACKr&border_radius=40&mode=weekly" height="270">
   </span>
-  <span style="display: inline-block; vertical-align: centre; margin-left: 16px;">
+ <!-- <span style="display: inline-block; vertical-align: centre; margin-left: 16px;">
     <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=iamayuu&theme=codeSTACKr&show_icons=true&count_private=true&hide_border=false&border_color=ffffff&border_radius=40&rank_icon=github&include_all_commits=true&custom_title=MyGithubStats" height="270">
-  </span>
+  </span> -->
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=iamayuu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamayuu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ <!-- ![](https://github-readme-stats.vercel.app/api?username=iamayuu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamayuu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Public%20Repos-9-green?style=for-the-badge" alt="Public Repositories" title="Number of public repositories"/>
@@ -118,11 +127,6 @@ Interactive visualization of A* shortest path algorithm.
 <p align="center">
   <img src="https://ghchart.rshah.org/iamayuu" alt="Contribution chart for iamayuu" title="GitHub contribution heatmap" />
 </p>
-
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamayuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 
 ## ✍️ Random Dev Quote  
@@ -140,7 +144,7 @@ Interactive visualization of A* shortest path algorithm.
 <table align="left">
   <tr>
     <td align="center" style="padding-right: 20px;">
-     <img src="https://github-contributor-stats.vercel.app/api?username=iamayuu&limit=5&theme=dark&combine_all_yearly_contributions=true" height="470">
+     <img src="https://github-contributor-stats.vercel.app/api?username=iamayuu&limit=5&theme=dark&combine_all_yearly_contributions=true" height="770">
     </td>
     <td align="center" style="padding-left: 20px;">
       <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=iamayuu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" height="470">
