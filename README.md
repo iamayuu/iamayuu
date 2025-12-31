@@ -96,15 +96,17 @@ Interactive visualization of A* shortest path algorithm.
 
 ---
 ## 📊 GitHub Stats 
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=iamayuu&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=iamayuu&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamayuu&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=iamayuu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iamayuu&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamayuu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamayuu&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false"/>
-</div>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Public%20Repos-9-green?style=for-the-badge" alt="Public Repositories" title="Number of public repositories"/>
