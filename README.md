@@ -1,4 +1,4 @@
-<h1 align="center">👋 <img src="https://raw.githubusercontent.com/iamayuu/iamayuu/main/assets/Hello.gif" height="60"> , I'm <strong>Ayush Raghuwanshi</strong></h1>
+<h1 align="center">👋 <img src="https://raw.githubusercontent.com/iamayuu/iamayuu/main/assets/Hello-animation.gif" height="30"> , I'm <strong>Ayush Raghuwanshi</strong></h1>
 
 <p align="center">
 Software Engineer focused on <strong>RPA Automation</strong>, <strong>Python Engineering</strong>, and <strong>AI ML applications</strong>.  
