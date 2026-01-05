@@ -1,97 +1,71 @@
-<svg width="500" height="160" viewBox="0 0 500 160" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="160" viewBox="0 0 500 160"
+     xmlns="http://www.w3.org/2000/svg">
 
-  <style>
+  <rect width="100%" height="100%" fill="black"/>
 
-    text {
+  <g transform="translate(250 80)">
+    <g>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="0 -300"
+        dur="12s"
+        repeatCount="indefinite" />
 
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      <text y="0"
+            fill="white"
+            font-size="44"
+            font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+            font-weight="600"
+            text-anchor="middle"
+            dominant-baseline="middle">
+        Hello
+      </text>
 
-      font-size: 44px;
+      <text y="60" fill="white" font-size="44"
+            font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+            font-weight="600"
+            text-anchor="middle"
+            dominant-baseline="middle">
+        Namaste
+      </text>
 
-      font-weight: 600;
+      <text y="120" fill="white" font-size="44"
+            font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+            font-weight="600"
+            text-anchor="middle"
+            dominant-baseline="middle">
+        Hola
+      </text>
 
-      fill: white;
+      <text y="180" fill="white" font-size="44"
+            font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+            font-weight="600"
+            text-anchor="middle"
+            dominant-baseline="middle">
+        Ciao
+      </text>
 
-      text-anchor: middle;
+      <text y="240" fill="white" font-size="44"
+            font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+            font-weight="600"
+            text-anchor="middle"
+            dominant-baseline="middle">
+        こんにちは
+      </text>
 
-      dominant-baseline: middle;
+      <text y="300" fill="white" font-size="44"
+            font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+            font-weight="600"
+            text-anchor="middle"
+            dominant-baseline="middle">
+        안녕하세요
+      </text>
+    </g>
+  </g>
 
-    }
-
-
-
-    .word {
-
-      animation: rotate 12s infinite;
-
-    }
-
-
-
-    @keyframes rotate {
-
-      0%   { transform: translateY(0); }
-
-      15%  { transform: translateY(0); }
-
-
-
-      20%  { transform: translateY(-60px); }
-
-      35%  { transform: translateY(-60px); }
-
-
-
-      40%  { transform: translateY(-120px); }
-
-      55%  { transform: translateY(-120px); }
-
-
-
-      60%  { transform: translateY(-180px); }
-
-      75%  { transform: translateY(-180px); }
-
-
-
-      80%  { transform: translateY(-240px); }
-
-      100% { transform: translateY(-240px); }
-
-    }
-
-  </style>
-
-
-
-  <rect width="100%" height="100%" fill="black"/>
-
-
-
-  <clipPath id="mask">
-
-    <rect x="0" y="0" width="500" height="160"/>
-
-  </clipPath>
-
-
-
-  <g clip-path="url(#mask)">
-
-    <g class="word" transform="translate(250 80)">
-
-      <text y="0">Hello</text>
-
-      <text y="60">Namaste</text>
-
-      <text y="120">Hola</text>
-
-      <text y="180">Ciao</text>
-
-      <text y="240">こんにちは</text>
-
-    </g>
-
-  </g>
-
+  <clipPath id="clip">
+    <rect x="0" y="0" width="500" height="160"/>
+  </clipPath>
 </svg>
