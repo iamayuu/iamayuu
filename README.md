@@ -1,6 +1,5 @@
-<h1 align="center">👋 Hi, I'm <strong>Ayush Raghuwanshi</strong></h1>
-<img src="https://github.com/iamayuu/iamayuu/blob/main/assets/GIF_20260105_161952_974.gif" height="270">
-<img src="https://github.com/iamayuu/iamayuu/assets/GIF_20260105_161952_974.gif" height="270">
+<h1 align="center">👋 <img src="https://raw.githubusercontent.com/iamayuu/iamayuu/main/assets/Hello-animation.gif" height="60"> , I'm <strong>Ayush Raghuwanshi</strong></h1>
+
 <p align="center">
 Software Engineer focused on <strong>RPA Automation</strong>, <strong>Python Engineering</strong>, and <strong>AI ML applications</strong>.  
 I build reliable systems, automate complex workflows, and constantly push myself to learn deeper programming concepts.
