@@ -129,7 +129,8 @@ Interactive visualization of A* shortest path algorithm.
   <tr>
     <td align="center" style="padding-right: 20px;">
      <img src="https://github-contributor-stats.vercel.app/api?username=iamayuu&limit=5&theme=dark&combine_all_yearly_contributions=true" height="770">
+     <img src="https://github-readme-stats-iamayuu.vercel.app/api?username=iamayuu&limit=5&theme=dark&combine_all_yearly_contributions=true" height="770">
     </td>
     <td align="center" style="padding-left: 20px;">
-      <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=iamayuu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" height="470">
+      <img align="center" src="https://github-readme-stats-iamayuu.vercel.app/api/top-langs/?username=iamayuu&layout=donut&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" height="470">
 </td></tr></table>
