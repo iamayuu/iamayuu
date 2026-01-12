@@ -1,7 +1,6 @@
 <h1 align="center">👋 <img src="https://raw.githubusercontent.com/iamayuu/iamayuu/main/assets/Hello-animation.gif" height="30"> , I'm <strong>Ayush Raghuwanshi</strong></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full%20time%20Developer;Learning%20AI%2FML%20Engineering;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20New%20Tech&font=monospace&center=true&width=640&height=30&color=ff652f&vCenter=true&pause=1000&size=28&letterSpacing=-1px" /></p>
-<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20time%20Developer;Learning%20AI%2FML%20Engineering;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20New%20Tech&font=monospace&center=true&width=640&height=30&color=ff652f&vCenter=true&pause=1000&size=28&letterSpacing=-1px" /><br>
 Software Engineer focused on <strong>RPA Automation</strong>, <strong>Python Engineering</strong>, and <strong>AI ML applications</strong>.  
 I build reliable systems, automate complex workflows, and constantly push myself to learn deeper programming concepts.
 </p>
