@@ -91,7 +91,7 @@ Interactive visualization of A* shortest path algorithm.
 ## 📊 GitHub Stats 
 <p align="center">
   <span style="display: inline-block; vertical-align: centre; margin-right: 16px;">
-    <img src="https://nirzak-streak-stats.vercel.app?user=iamayuu&theme=codeSTACKr&border_radius=40&mode=weekly" height="270">
+    <img src="https://github-streak-stats-iamayuu.vercel.app?user=iamayuu&theme=codeSTACKr&border_radius=40&mode=weekly" height="270">
   </span>
  <!-- <span style="display: inline-block; vertical-align: centre; margin-left: 16px;">
     <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=iamayuu&theme=codeSTACKr&show_icons=true&count_private=true&hide_border=false&border_color=ffffff&border_radius=40&rank_icon=github&include_all_commits=true&custom_title=MyGithubStats" height="270">
