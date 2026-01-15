@@ -61,6 +61,7 @@ I build reliable systems, automate complex workflows, and constantly push myself
   <img src="https://skillicons.dev/icons?i=gcp" height="40"/>
   <img src="https://skillicons.dev/icons?i=dotnet" height="40"/>
   <img src="https://skillicons.dev/icons?i=netlify" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
   
 </p>
 
