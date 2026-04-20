@@ -10,7 +10,7 @@ I build reliable systems, automate complex workflows, and constantly push myself
 
 ## 🌐 Socials  
 
-<p align="left">
+<p align="left" style="white-space: nowrap;">
 <a href="https://ayushraghuwanshi.netlify.app" target="_blank" title="Visit my Portfolio Website"><img src="https://skillicons.dev/icons?i=rocket" height="40" width="40" alt="Portfolio website"/></a>
 <a href="https://www.linkedin.com/in/ayush-raghuwanshi1/" target="_blank" title="My LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/u/ayushraghuwanshi1/" target="_blank" title="My Leetcode Profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="Leetcode"/></a>
